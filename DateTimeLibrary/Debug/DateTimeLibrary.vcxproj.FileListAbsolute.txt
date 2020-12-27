@@ -1,0 +1,2 @@
+C:\Users\Alex Ferraro\source\repos\DateTimeLibrary\Debug\DateTimeLibrary.pdb
+C:\Users\Alex Ferraro\source\repos\DateTimeLibrary\DateTimeLibrary\Debug\DateTimeLibrary.pdb
